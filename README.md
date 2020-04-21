@@ -14,7 +14,7 @@ cloudscraper
 
 ```
 
-#### Debian /Ubuntu ####
+#### Debian 10 #####
 <pre>apt install python3-pip
 pip3 install beautifulsoup4
 pip3 install cloudscraper</pre>
