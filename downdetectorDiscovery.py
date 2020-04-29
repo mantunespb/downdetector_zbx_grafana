@@ -1,11 +1,4 @@
 #!/usr/bin/python3
-#########################################
-#                                       #
-# Author: Gabriel Padilha               #
-# Email: gabrielvargaspadilha@gmail.com #
-#                                       #
-#########################################
-
 import os
 import sys
 import json
